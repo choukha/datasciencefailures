@@ -24,3 +24,4 @@ Articles related to the data science projects failures
 21. https://towardsdatascience.com/why-data-science-succeeds-or-fails-c24edd2d2f9
 22. https://venturebeat.com/2020/06/13/when-quick-wins-in-data-science-add-up-to-a-long-fail/
 23. https://blog.dataiku.com/why-data-science-projects-fail
+24. https://www.montecarlodata.com/why-production-machine-learning-fails-and-how-to-fix-it/
