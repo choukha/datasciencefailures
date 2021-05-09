@@ -25,3 +25,5 @@ Articles related to the data science projects failures
 22. https://venturebeat.com/2020/06/13/when-quick-wins-in-data-science-add-up-to-a-long-fail/
 23. https://blog.dataiku.com/why-data-science-projects-fail
 24. https://www.montecarlodata.com/why-production-machine-learning-fails-and-how-to-fix-it/
+25. https://towardsdatascience.com/3-signs-that-your-ai-project-is-doomed-9e3ab82d9425
+26. https://medium.com/hackernoon/ai-reality-checklist-be34e2fdab9
